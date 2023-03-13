@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\bin\Debug\net7.0\ListT.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\bin\Debug\net7.0\ListT.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\bin\Debug\net7.0\ListT.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\bin\Debug\net7.0\ListT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\bin\Debug\net7.0\ListT.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ListT.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ListT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ListT.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ListT.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ListT.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ListT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\refint\ListT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ListT.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ListT.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\ListT\obj\Debug\net7.0\ref\ListT.dll

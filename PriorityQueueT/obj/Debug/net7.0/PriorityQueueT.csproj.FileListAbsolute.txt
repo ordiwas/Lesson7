@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\bin\Debug\net7.0\PriorityQueueT.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\bin\Debug\net7.0\PriorityQueueT.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\bin\Debug\net7.0\PriorityQueueT.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\bin\Debug\net7.0\PriorityQueueT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\bin\Debug\net7.0\PriorityQueueT.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\PriorityQueueT.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\PriorityQueueT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\PriorityQueueT.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\PriorityQueueT.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\PriorityQueueT.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\PriorityQueueT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\refint\PriorityQueueT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\PriorityQueueT.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\PriorityQueueT.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\PriorityQueueT\obj\Debug\net7.0\ref\PriorityQueueT.dll

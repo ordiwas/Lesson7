@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\bin\Debug\net7.0\QueueT.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\bin\Debug\net7.0\QueueT.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\bin\Debug\net7.0\QueueT.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\bin\Debug\net7.0\QueueT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\bin\Debug\net7.0\QueueT.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\QueueT.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\QueueT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\QueueT.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\QueueT.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\QueueT.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\QueueT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\refint\QueueT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\QueueT.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\QueueT.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\QueueT\obj\Debug\net7.0\ref\QueueT.dll

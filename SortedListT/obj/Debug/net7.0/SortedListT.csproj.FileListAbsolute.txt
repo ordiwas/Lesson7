@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\bin\Debug\net7.0\SortedListT.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\bin\Debug\net7.0\SortedListT.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\bin\Debug\net7.0\SortedListT.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\bin\Debug\net7.0\SortedListT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\bin\Debug\net7.0\SortedListT.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\SortedListT.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\SortedListT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\SortedListT.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\SortedListT.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\SortedListT.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\SortedListT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\refint\SortedListT.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\SortedListT.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\SortedListT.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson7\SortedListT\obj\Debug\net7.0\ref\SortedListT.dll
